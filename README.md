@@ -1,0 +1,2 @@
+# Python-Fantasy-Cricket-Game
+This project first includes a GUI which is designed by Qt Designer, then it provide the event driven handling of the signals by the slots designed for the project. Then the designed UI works on the cricket teams that we make by creating new team, then we can  save it and we can open any team. It also ensures the overall score of the players of the team by all the conditions mentioned in the problem statement. 
